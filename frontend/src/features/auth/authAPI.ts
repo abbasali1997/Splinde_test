@@ -1,0 +1,1 @@
+// authAPI.ts - placeholder content
